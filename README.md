@@ -1,2 +1,4 @@
-# RWD-1525-Phyu-Thel-Cho-FinalProject
-Rebellion Web Development Foundation Batch1 Final Project
+Project Flow>> home.html> login.html> If login success, go to admin-panel.html
+
+Username: phyu
+Password: 12345678

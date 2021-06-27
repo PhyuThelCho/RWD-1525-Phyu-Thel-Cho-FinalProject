@@ -1,0 +1,43 @@
+body{
+    background-image: url("../images/slider1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: chocolate;
+}
+input[type="submit"]{
+    background-color: green;
+}
+.admin th{
+    background-color: rgb(223, 213, 73);
+}
+.admin{
+    width: 450px;
+    height: 300px;
+    padding: 10px;
+    margin-left: 150px;
+    margin-top: 0%;
+    text-align: center;
+    border-spacing: 20px;
+    
+}
+.admin th{
+    height: 20px;
+}
+button{
+    top: 70%;
+    left: 80%;
+    position: absolute;
+    background-color: chocolate;
+    padding: 10px;
+}
+.admin td{
+    color: white;
+    font-size: 20px;
+
+}
